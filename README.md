@@ -1,5 +1,5 @@
 # Hi, my name's Yan! :D
-I'm a fullstack web developer focusing on technologies such as HTML5, CSS3, JavaScript, Node.js, Express, MySQL and Bootstrap. I have experience in building modern and responsive web applications, using good development practices and agile methodologies.
+I'm a fullstack web developer focusing on technologies such as HTML5, CSS3, JavaScript, Node.js, Express, MySQL and Bootstrap. I've always learned more about building solid and scalable web applications, using good development practices and agile methodologies.
 
 I am currently expanding my skills in modern JavaScript frameworks and integrating backend systems with relational and non-relational databases. I am interested in projects that challenge my knowledge and allow the creation of innovative solutions.
 
