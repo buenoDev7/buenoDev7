@@ -1,5 +1,5 @@
 # Hi, my name's Yan! :D
-👀 I’m interested in build solid and scalable Web Applications<br>- 🌱 I’m currently learning Git and Node.js<br>- 💞️ I’m looking to collaborate on FullStack Web Projects<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: I don't have any special talent, I just have passion in my curiosity
+- 👀 I’m interested in build solid and scalable Web Applications<br>- 🌱 I’m currently learning Git and Node.js<br>- 💞️ I’m looking to collaborate on FullStack Web Projects<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: I don't have any special talent, I just have passion in my curiosity
 
 
 ## 🌐 Socials:
