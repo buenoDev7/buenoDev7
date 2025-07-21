@@ -15,10 +15,8 @@ I am currently expanding my skills in modern JavaScript frameworks and integrati
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=buenoDev7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=buenoDev7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=buenoDev7&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
